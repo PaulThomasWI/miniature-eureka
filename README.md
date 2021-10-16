@@ -23,8 +23,7 @@ https://paulthomaswi-notetaker.herokuapp.com/
 ## Built With
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [NodeJS](https://nodejs.org/)
-* Node Packages:
-    * [Express](https://www.npmjs.com/package/express)
+* [Express](https://www.npmjs.com/package/express)
 
 ## Authors
 Paul Thomas
