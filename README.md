@@ -17,7 +17,7 @@ Run `npm install` to install dependencies. To use the app locally, run `npm star
 ## Preview:
 
 ## Deployed Link:
-[Note Taker App]
+[Note Taker App] https://paulthomaswi-notetaker.herokuapp.com/
 
 ## Built With
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
