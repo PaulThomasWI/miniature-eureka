@@ -19,8 +19,6 @@ Run `npm install` to install dependencies. To use the app locally, run `npm star
 ## Deployed Link:
 [Note Taker App]
 
-## Learning Points:
-
 ## Built With
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [NodeJS](https://nodejs.org/)
@@ -28,5 +26,4 @@ Run `npm install` to install dependencies. To use the app locally, run `npm star
     * [Express](https://www.npmjs.com/package/express)
 
 ## Authors
-
-## License
+Paul Thomas
