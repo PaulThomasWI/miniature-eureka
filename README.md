@@ -17,9 +17,6 @@ Run `npm install` to install dependencies. To use the app locally, run `npm star
 ## Preview:
 ![note](https://user-images.githubusercontent.com/87770976/137593789-e64ba7e2-a483-476e-8fa1-f4bd95727bb4.png)
 
-## Live Link:
-https://paulthomaswi-notetaker.herokuapp.com/
-
 ## Built With
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [NodeJS](https://nodejs.org/)
@@ -27,3 +24,6 @@ https://paulthomaswi-notetaker.herokuapp.com/
 
 ## Authors
 Paul Thomas
+
+## Production Site:
+https://paulthomaswi-notetaker.herokuapp.com/
